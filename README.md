@@ -163,13 +163,14 @@ Accuracy and clarity are the priority.
 <hr/>
 
 ## 🖼️ Screenshots
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/aad1b9eb-6abc-435a-a12c-c26ac912b902" width="200" />
-  <img src="https://github.com/user-attachments/assets/a58a2dcb-d4f3-4f4c-b060-328d371a0017" width="200" />
-  <img src="https://github.com/user-attachments/assets/b16e0636-0ea2-4acf-a457-4104b4a6e5d5" width="200" />
-  <img src="https://github.com/user-attachments/assets/b135d9d0-668c-4a99-ad4a-085e9859d0df" width="200" />
-</p>
+</div>
+<img src="https://github.com/user-attachments/assets/aad1b9eb-6abc-435a-a12c-c26ac912b902" alt="Switch Anytime" width="200"/>
+<img src="https://github.com/user-attachments/assets/a58a2dcb-d4f3-4f4c-b060-328d371a0017" alt="Dark/Light mode" width="200"/>
+<img src="https://github.com/user-attachments/assets/b16e0636-0ea2-4acf-a457-4104b4a6e5d5" alt="Track Your Marks" width="200"/>
+<img src="https://github.com/user-attachments/assets/b135d9d0-668c-4a99-ad4a-085e9859d0df" alt="Book Appointments Easily" width="200"/>
+<img src="https://github.com/user-attachments/assets/0460f2d9-9887-44f8-8c88-99391f0aa101" alt="Your App" width="200"/>
+<img src="https://github.com/user-attachments/assets/3e5fadcf-9588-44e3-a3a7-7dd7129a76a8" alt="Private and Safe" width="200"/>
+</div>
 
 <hr/>
 
